@@ -1,0 +1,142 @@
+* {
+  outline: 2PX red;
+}
+
+@import url("https://fonts.googleapis.com/css?family=Acme|Lobster|Patua+One|Rubik|Sniglet");
+
+body {
+  margin: 0%;
+  padding: 0%;
+  box-sizing: border-box;
+  width: 100%;
+  font-family: 'Courier New', Courier, monospace, sans-serif;
+}
+
+.navbar-brand {
+  width: 100px;
+
+}
+
+li {
+  padding: 5px;
+}
+
+.nav-link {
+  font-size: 15px;
+  font-weight: bold;
+}
+
+
+h3 {
+  color: aliceblue;
+  padding-left: 250px;
+}
+
+section {
+  width: 100%;
+ 
+}
+.h1 {
+  color: aliceblue;
+  padding-top: 0px;
+  font-size: 200px;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+font-weight: bold;
+}
+
+#h1 {
+  font-weight: bold;
+}
+
+#section-2 {
+  width: 100%;
+  height: 100vh;
+
+}
+
+.card-title {
+  color: red;
+  font-weight: bold;
+}
+
+.btn {
+  border-radius: 30px;
+
+}
+h6{
+  padding-left: 410px;
+}
+#bt{
+  padding-right: 410px;
+  
+
+}
+#bd1{
+  padding-right: 420px;
+
+}
+#bt1{
+  border-radius: 30px;
+  width: 150px;
+  
+}
+#bd2{
+  padding-right: 430px;
+
+}
+#bt2{
+  border-radius: 30px;
+  width: 200px;
+  height: 50px;
+  font-weight: bold;
+}
+.cm{
+  padding-left: 100px;
+}
+#btn3{
+  width: 300px;
+  height: 80px;
+  font-size: large;
+  border-radius: 50px;
+}
+#btn4{
+  width:600px ;
+  height: 80px;
+  font-size: large;
+  border-radius: 50px;
+  font-weight: bold;
+  
+  
+  
+}
+#Inputphone{
+  height: 60px;
+  width: 850px;
+  border-top: none;
+  border-left:none ;
+  border-right: none;
+  border-bottom: ;
+}
+.nav-item a{
+  font-weight: bold;
+  font-size: large;
+}
+P{
+  font-size: large;
+}
+#dd{
+  padding-left: 170px;
+}
+#bbt1{
+  border-radius: 30PX;
+  border: 2px black;  
+}
+#bbt2{
+  border-radius: 30PX;
+}
+#bbt3{
+  border-radius: 30PX;
+}
+#sign{
+ padding-left: 800px;
+}
